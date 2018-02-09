@@ -1,0 +1,30 @@
+
+.titulo {
+  text-align: center;
+  background-color: #0A4958;
+  border: 40px solid #0A4958;
+  margin:0;
+  font-family: 'Bitter', serif;
+  font-weight: bold;
+  color:  #01B6AD;
+}
+
+body {
+  padding: 0;
+  background-color: #F6E7D2;
+}
+
+form {
+  height: 350px;
+  text-align:center;
+  background-color: #FFFFFF;
+  padding: 100px;
+}
+.container {
+  justify-content: center;
+}
+.botao{
+  height: 30px;
+  width:50px;
+  align-self:center;
+}
